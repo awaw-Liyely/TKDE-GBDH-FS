@@ -1,4 +1,5 @@
 # TKDE-GBDH-FS
+The code and models will be open-sourced upon the acceptance of this paper to ensure reproducibility.
 This is the code for the accepted paper:
 
 **Authors:** Ye Li, Lei Yang, Binbin Sang\*, Guoyin Wang\*, **Senior Member, IEEE**, Shuyin Xia, **Senior Member, IEEE**, Weihua Xu, and Jianhang Yu

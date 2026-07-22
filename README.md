@@ -17,7 +17,7 @@ If you have any questions, please connect liyely@126.com
 
 
 
-Example Output on the **IA** dataset:
+Example Output on the **USPS** dataset:
 
 ```txt
 USPS dataset training and testing started

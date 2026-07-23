@@ -11,7 +11,7 @@ This is the code for the accepted paper:
 
 
 
-GBDH-FS.py is the main function file
+GBDH-FS.ipynb is the main function file
 
 If you have any questions, please connect liyely@126.com
 

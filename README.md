@@ -1,8 +1,6 @@
 # 2026-TKDE-GBDH-FS
 
 
-**The code is being fixed, please wait.**
-
 This is the code for the accepted paper:
 
 **Authors:** Ye Li, Lei Yang, Binbin Sang\*, Guoyin Wang\*, **Senior Member, IEEE**, Shuyin Xia, **Senior Member, IEEE**, Weihua Xu, and Jianhang Yu

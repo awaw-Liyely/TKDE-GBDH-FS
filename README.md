@@ -13,8 +13,6 @@ This is the code for the accepted paper:
 
 GBDH-FS.ipynb is the main function file
 
-If you have any questions, please connect liyely@126.com
-
 
 
 Example Output on the **USPS** dataset:
